@@ -6,6 +6,7 @@
 
 using namespace std;
 
+
 int createZombie() {
     if (rand() % 67 < 10)
         return 11;
